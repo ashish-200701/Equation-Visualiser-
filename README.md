@@ -26,8 +26,8 @@ This tool uses Tkinter For the user interface and matplotlib for drawing the gra
 - Install Python
 - Install Required Libraries - 
 - Run these commands
- - pip install numpy
- - pip install matplotlib
+  - pip install numpy
+  - pip install matplotlib
 - Run the Program
   - python Equation_visualisor
 
@@ -41,8 +41,8 @@ This tool uses Tkinter For the user interface and matplotlib for drawing the gra
 - sqrt(x)
 - x(x+1)(x-1)
 - Adjust:
-- Range - example: 0 to 360
-- Samples - example: 800 (higher = smoother graph)
+  - Range - example: 0 to 360
+  - Samples - example: 800 (higher = smoother graph)
 - Click Plot to see the graph.
 
 
