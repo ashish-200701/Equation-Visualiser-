@@ -45,4 +45,10 @@ This tool uses Tkinter For the user interface and matplotlib for drawing the gra
   - Samples - example: 800 (higher = smoother graph)
 - Click Plot to see the graph.
 
+# Screenshots
+
+![Tan Function](Screenshots/tanx.jpg)
+
+
+
 
