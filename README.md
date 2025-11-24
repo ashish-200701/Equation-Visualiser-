@@ -48,6 +48,11 @@ This tool uses Tkinter For the user interface and matplotlib for drawing the gra
 # Screenshots
 
 ![Tan Function](Screenshots/tanx.jpg)
+![Sin Function](Screenshots/sin.jpg)
+![Cos Function](Screenshots/cos.jpg)
+![Linear Equation](Screenshots/linear.jpg)
+![Quadratic Equation](Screenshots/quadratic.jpg)
+
 
 
 
